@@ -1,4 +1,4 @@
-module github.com/zeromicro/x
+module github.com/18767156402/x
 
 go 1.18
 
