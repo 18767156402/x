@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/zeromicro/go-zero/rest/httpx"
-	"github.com/zeromicro/x/errors"
+	"github.com/18767156402/x/errors"
 	"google.golang.org/grpc/status"
 )
 
